@@ -16,6 +16,6 @@ function getAlbum(album, id) {
         .catch(err => {
             console.error(`error ${err}`)
         });
-}
+};
 
 module.exports = getAlbum;
