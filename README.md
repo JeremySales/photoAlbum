@@ -19,11 +19,18 @@ https://jsonplaceholder.typicode.com/photos?albumId=3
 • https://bitbucket.org/
 Provide a README that contains instructions on how to build and run your application.
 Spend as much (or little) time as you’d like on this. Feel free to use any resources available.
+
 Example:
->photo-album 2
-[53] soluta et harum aliquid officiis ab omnis consequatur
-[54] ut ex quibusdam dolore mollitia
+
+photo-album 2
+
+
+>[53] soluta et harum aliquid officiis ab omnis consequatur
+>
+>[54] ut ex quibusdam dolore mollitia
 ...
->photo-album 3
-[101] incidunt alias vel enim
-[102] eaque iste corporis tempora vero distinctio consequuntur nisi nesciunt
+
+photo-album 3
+>[101] incidunt alias vel enim
+>
+>[102] eaque iste corporis tempora vero distinctio consequuntur nisi nesciunt
