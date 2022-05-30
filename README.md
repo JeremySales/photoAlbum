@@ -1,10 +1,8 @@
-To run: node app.js --album [number] 
+To run: `node photo-album.js --album [number]`
 
-optional flag: --id [number]
+Optional flag: `--id [number]`
 
-
-
-
+To test: `npm test`
 
 Create a console application that displays photo ids and titles in an album. The photos are available in this online web
 service: https://jsonplaceholder.typicode.com/photos
